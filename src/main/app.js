@@ -7,3 +7,5 @@
 # PR Merge: 2025-10-19 - docs/merge-6892
 
 # PR Merge: 2025-10-19 - enhancement/merge-3335
+
+# PR Merge: 2025-10-19 - feature/merge-5588
